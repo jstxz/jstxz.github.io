@@ -6,17 +6,6 @@
 
 3 - test
 
-st
-st
-
-testtttttttttttt
-
-### test
-
-## test
-
-# big test
-
  <li class="masthead__menu-item">
-     <a href="subwaysurfers.html">sub surfs</a>
+     <a href="subwaysurfers.html" target="_blank" rel="noopener noreferrer">sub surfs</a>
     </li>
