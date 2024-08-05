@@ -49,4 +49,10 @@
 
 # materias
 
- a
+ <li class="masthead__menu-item">
+     <a href="materias/algebra.html" target="_blank" rel="noopener noreferrer">*algebra</a>
+    </li>
+
+<li class="masthead__menu-item">
+     <a href="materias/biologia.html" target="_blank" rel="noopener noreferrer">*biologia</a>
+    </li>
