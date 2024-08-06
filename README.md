@@ -3,52 +3,7 @@
 # jstxz.github.io 
 
 
-### jogo
-
- <li class="masthead__menu-item">
-     <a href="jogo/subwaysurfers.html" target="_blank" rel="noopener noreferrer">subway surf</a>
-    </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# materias
+## materias
 
  <li class="masthead__menu-item">
      <a href="materias/algebra.html" target="_blank" rel="noopener noreferrer">álgebra</a>
@@ -91,4 +46,10 @@
 
 <li class="masthead__menu-item">
      <a href="materias/ingles.html" target="_blank" rel="noopener noreferrer">inglês</a>
+    </li>
+
+## jogos
+
+ <li class="masthead__menu-item">
+     <a href="jogo/subwaysurfers.html" target="_blank" rel="noopener noreferrer">subway surf</a>
     </li>
