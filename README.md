@@ -1,8 +1,9 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"  alt="logo icon" style="height: 100px; width:100px;"/>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg" alt="logo icon" width="300">
+</div>
 
 # jstxz.github.io 
 
-# as coisa
  - [resumos](materias/resumos.md)
  - [jogos](jogo/jogos.md)
 
