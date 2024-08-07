@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"  alt="logo icon" style="height: 100px; width:200px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"  alt="logo icon" style="height: 100px; width:100px;"/>
 
 # jstxz.github.io 
 
