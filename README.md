@@ -4,12 +4,7 @@
 
 # as coisa
  - [resumos](materias/resumos.md)
- - 
-
-## jogos
+ - [jogos](jogo/jogos.md)
 
 
 
- <li class="masthead__menu-item">
-     <a href="jogo/subwaysurfers.html" target="_blank" rel="noopener noreferrer">subway surf</a>
-    </li>
