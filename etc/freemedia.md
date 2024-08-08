@@ -26,3 +26,4 @@ sempre tenha [essa](https://ublockorigin.com/) extensão instalada, é o melhor 
 - [online-fix](https://online-fix.me/) - jogue jogos pirateados online
 - [fitgirlrepacks](https://fitgirl-repacks.site/) - use [qbittorrent](https://www.qbittorrent.org/download)
 - [steamrip](https://steamrip.com/)
+- [gog-games](https://gog-games.to/)
